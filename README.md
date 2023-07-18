@@ -4,9 +4,9 @@ program is a simple GUI
 
 ![image](https://github.com/ziad40/function_plotter/assets/88895502/44cb9d28-c0c5-4389-aaed-028bb1a57ed9)
 
-program take function of x variable only and support operation +, -, *, /, ^, (, )
-and take the minimum and maximum values of x 
-, then click 'plot' button to draw entered function
+## program take function of x variable only and support operation +, -, *, /, ^, (, )
+## and take the minimum and maximum values of x 
+## , then click 'plot' button to draw entered function
 
 ![image](https://github.com/ziad40/function_plotter/assets/88895502/999356c5-8917-4715-b829-eab0999e4e72)
 
