@@ -15,23 +15,23 @@ and take the minimum and maximum values of x
 
 
 _________________________________________________________
-program can handle types of errors that user may do and program alerts user of error he does as : 
-1- user doesn't fill all fields 
+## program can handle types of errors that user may do and program alerts user of error he does as : \n
+## 1- user doesn't fill all fields 
 
 ![image](https://github.com/ziad40/function_plotter/assets/88895502/b65ba445-02db-487d-9400-e894d813de61)
 
 
-2- min or max of x aren't number 
+## 2- min or max of x aren't number 
 
 ![image](https://github.com/ziad40/function_plotter/assets/88895502/68bd9901-b599-4193-a043-cc02c2cc868c)
 
 
-3- min of x is more than or equal to the max of x
+## 3- min of x is more than or equal to the max of x
 
 ![image](https://github.com/ziad40/function_plotter/assets/88895502/bb4c79f0-8ac5-43b4-a396-bc85503316b0)
 
 
-4- if the user writes a function wrong or does any syntax error
+## 4- if the user writes a function wrong or does any syntax error
 
 ![image](https://github.com/ziad40/function_plotter/assets/88895502/a2799152-a237-4bef-9c2f-7d51a6abff91)
 
@@ -39,7 +39,7 @@ program can handle types of errors that user may do and program alerts user of e
 ![image](https://github.com/ziad40/function_plotter/assets/88895502/6aa03a22-60a0-4f92-a7c2-37eedcb670ff)
 
 
-5- if user choose any other variables other than x as function must be function of x
+## 5- if user choose any other variables other than x as function must be function of x
 
 ![image](https://github.com/ziad40/function_plotter/assets/88895502/df170af5-ffb3-4e3c-b751-7ab50c9a32bd)
 
