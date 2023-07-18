@@ -162,4 +162,4 @@ def test_warning_message_6(app, qtbot):
 
 if __name__ == "__main__":
     # pytest.main()
-    pytest.main(["-v", "--capture=no"])
+    pytest.main()

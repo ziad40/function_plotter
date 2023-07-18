@@ -82,8 +82,8 @@ class MainWindow(QMainWindow):
         if(not self.validate_inputs()):
             return 
 
-        function = self.function_input.text()
-        function = function.replace('^','**')
+        function_origin = self.function_input.text()
+        function = function_origin.replace('^','**')
         function = function.replace('x','(x)')
         min_value = int(self.min_input.text())
         max_value = int(self.max_input.text())
@@ -94,7 +94,7 @@ class MainWindow(QMainWindow):
         plt.plot(x, y)
         plt.xlabel("x")
         plt.ylabel("f(x)")
-        plt.title("Function Plot")
+        plt.title("y(x) = "+function_origin)
         plt.grid(True)
         plt.show()
     
